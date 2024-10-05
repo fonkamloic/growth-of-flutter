@@ -1,12 +1,10 @@
-# Let me introduce you to Flutter
+# Let's The Growth of Flutter
 
 ![Header image](images/title_slide.png)
 
-A presentation from [plDroid 2023](https://pldroid.com/) 🤖
-
 Powered by [flutter_deck](https://pub.dev/packages/flutter_deck) 🚀
 
-Deployed on [kazlauskas.dev](https://kazlauskas.dev/introduction-to-flutter) 🎉
+Deployed on [fonkamloic.com](https://fonkamloic.com/growth-of-flutter) 🎉
 
 ---
 
@@ -21,8 +19,8 @@ If you are new to Flutter, please first follow the [Flutter Setup](https://flutt
 ### Building and installing the Flutter Design Patterns app
 
 ```
-git clone git@github.com:mkobuolys/introduction-to-flutter.git
-cd introduction-to-flutter
+git clone git@github.com:fonkamloic/growth-of-flutter.git
+cd growth-of-flutter
 flutter pub get
 flutter run
 ```
