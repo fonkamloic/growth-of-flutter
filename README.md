@@ -1,6 +1,6 @@
 # Let's The Growth of Flutter
 
-![Header image](images/title_slide.png)
+![Header image](images/title_slide.gif)
 
 Powered by [flutter_deck](https://pub.dev/packages/flutter_deck) 🚀
 
